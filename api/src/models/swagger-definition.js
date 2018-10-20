@@ -17,4 +17,4 @@ const options = {
     ]
 }
 
-module.exports = swaggerJSDoc(options) ;
+module.exports = swaggerJSDoc(options);
