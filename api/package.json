@@ -16,7 +16,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "filter-files": "^0.4.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mongoose": "^5.3.3",
     "swagger-jsdoc": "^3.2.3",
     "swagger-ui-express": "^4.0.1"
