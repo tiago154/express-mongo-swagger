@@ -19,7 +19,7 @@
     "lodash": "^4.17.21",
     "mongoose": "^5.7.5",
     "swagger-jsdoc": "^3.2.3",
-    "swagger-ui-express": "^4.0.1"
+    "swagger-ui-express": "^4.6.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.4"
