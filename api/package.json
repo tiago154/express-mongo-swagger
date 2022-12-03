@@ -18,7 +18,7 @@
     "filter-files": "^0.4.0",
     "lodash": "^4.17.21",
     "mongoose": "^5.13.15",
-    "swagger-jsdoc": "^3.2.3",
+    "swagger-jsdoc": "^3.7.0",
     "swagger-ui-express": "^4.6.0"
   },
   "devDependencies": {
